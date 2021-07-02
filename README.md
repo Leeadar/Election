@@ -1,6 +1,8 @@
 # Election
 
-In this project, we created electronic voting
+In this project, we created an electronic voting
+
+![image](https://user-images.githubusercontent.com/72739568/124252704-e6f9ab80-db2f-11eb-8209-67246b3591e9.png)
 
 ### **Class Definitions:** ###
 
