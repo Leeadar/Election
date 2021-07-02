@@ -25,3 +25,7 @@ In this project, we created an electronic voting
 * Simple Election - election without districts, the results are calculated according to the ratio of votes.
 
   Both Simple Election and Normal Election are inherited from the election.
+
+## The project made by:
+- Leead Arbetman
+- Tomer Ahimeir
