@@ -1,5 +1,4 @@
 /* --------------------------------------
-	C++ Project - 3
 	This project made by:
 	Leead Arbetman - 206018574
 	Tomer Ahimeir  - 316157205
@@ -43,6 +42,7 @@ int main(void)
 	enum firstMenu { ZERO = 0, NEW_ELECTION, LOAD_ELECTION, EXIT };
 	enum secondMenu { DEFAULT = 0, ADD_DISTRICT, ADD_CITIZEN, ADD_PARTY, ADD_ELECTOR, DISPLAY_DISTRICT, DISPLAY_CITIZEN, DISPLAY_PARTY, VOTE, RESULT, FINISH, SAVE, LOAD };
 	ifstream in_file; // Load file
+
 
 	/// Choose create / load election:
 	while (!finish)
