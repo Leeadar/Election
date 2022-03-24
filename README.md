@@ -6,7 +6,7 @@ In this project, we created an electronic voting system
 
 ### **Class Definitions:** ###
 
-* Citizen - Every citizen has a name and a certificate, and the district in which the citizen can vote.
+* Citizen - Every citizen has a name and an ID, and the district in which the citizen can vote.
 
 * District - Each district has a list of citizens who can vote and a list of elected officials. The identity of the voters in each district is determined by the ratio of votes each party received.
 
